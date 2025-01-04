@@ -1,3 +1,3 @@
 # Computational Mathematics
 
-This repository aimed to creating programmable implementation of various methods of Computational Mathematics
+This repository aimed to creating programming implementation of various methods of Computational Mathematics
