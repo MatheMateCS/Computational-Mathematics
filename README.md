@@ -9,10 +9,8 @@ Repository has several directories with solutions for certain theme. These direc
 
 * ### SLAE
   SLAE - System of Linear Algebraic Equations. This directory contains methods of exact and numeric solving of SLAE. There are:
-  * Gauss method (C++, Python)
-  * ...
-
-
+  * Gauss method (exact) [C++, Python]
+  * Seidel method (numeric or approximate) [C++, Python]
 
 
 ## Interaction with the solutions
