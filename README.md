@@ -22,7 +22,7 @@ You can use these solutions in several ways:
     ```
    * If you use Python solutions, just create main.py in root directory of repo and then write appropriate imports in it, such as:
     ```python
-   from SLAE.gauss import *
+   from SLAE.slae import *
     
     gauss()
     ```
